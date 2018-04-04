@@ -1,0 +1,60 @@
+.header {
+	height: 510px;
+	width: inherit;
+	color: white;
+	background-image: url("images/bg.jpeg");
+	top: 0px;
+	padding: 3em;
+	text-align: center;
+	font-weight: lighter;
+	font-family: sans-serif;
+}
+.img1{
+	max-width: 200px;
+	float: left;
+}
+.divbotonazul{
+	background-color: #337ab7;
+	border-radius: 5px;
+	width: 200px;
+	float: left;
+	left: 40%;
+}
+.divbotonverde {
+	background-color: #5cb85c;
+	border-radius: 5px;
+	width: 150px;
+}
+.pbotones{
+	padding: 20px;
+	text-align: center;
+	display: inline;
+}
+.subtitulo{
+	padding: 0px 200px 0px 200px;	
+}
+body{
+	margin: 0;
+	font-weight: lighter;
+	font-family: sans-serif;
+
+}
+.img2 {
+	left: 50%;
+	width: 100%;
+}	
+footer{
+
+}
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	z-index: 2;
+	padding: 100px 350px 0px 350px;
+	font-weight: normal;
+	font-family: sans-serif;
+	line-height: 1.8;
+}
+h2{
+
+}	
