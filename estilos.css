@@ -107,21 +107,19 @@ h3{
 }
 .cuartodiv{
 	float: left;
-	height: 200px;
 	width: 100%;
 	display: inline;
 	text-align: 500px;
 }
 .footer{
 	background-color: black;
-	width: inherit;
-	height: 20px; 
+	width: 100%; 
 	float: left;
 }
 .footer h3{
 	color: #ccc;
 	text-align: left;
-	padding: 40px 20px 0 20px;
+	padding: 20px 0 20px 50px;
 	font-weight: normal;
 }
 .formulario {
@@ -140,7 +138,43 @@ h3{
 .formulario button {
 	background-color: transparent;
 }
-.divbotonazul a.muevete{
-	margin-left: 40%; 
+
+.divbotontarea{
+    display: table;
+    padding: 10px 30px 10px 30px;
+    background-color: #337ab7;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+.divbotontarea a{
+	text-decoration: none;
+    color: white;
+}
+
+.contacto {
+	width: 35%;
+	float: left;
+	background-color: white;
+	margin-left: 0px;
+}
+
+.sucribete{
+	width: 65%;
+	float: left;
+	background-color: white;
+}
+.pabajo{
+	text-align: left;
+	padding: 0px 50px 0px 200px;
+	font-weight: lighter;
+	color: #393939;
+	font-size: 12px;
+}
+.h44{
+	text-align: left;
+	padding: 0px 50px 0px 200px;
+	font-weight: lighter;
+	color: #393939;
 }
 
